@@ -14,6 +14,11 @@
 - [Spring Security](https://start.spring.io/)
 - [Token JWT](https://jwt.io/)
 
+### Desenvolvido por:
+Julio Cesar Noya Castiglioni                 paranodesaparecer@hotmail.com    
+         www.linkedin.com/in/julio-cesar-noya-castiglioni-gestão
+
+
 ### Uma API REST para o funcionamento de um fórum, onde poderá participar obtendo e entregando conhecimento sobre diferentes tópicos referentes a diversos cursos da Alura
 
 #### Tenha acesso à documentação completa do projeto com Swagger.
