@@ -1,0 +1,15 @@
+CREATE TABLE topicos (
+
+	id bigint not null auto_increment, 
+	titulo varchar(100) not null unique, 
+	mensagem varchar(100) not null, 
+	data_criacao date, 
+	status varchar(30), 
+	autor_id bigint not null, 
+	curso_id bigint not null, 
+	resposta bigint, 
+	ativo boolean not null, 
+	primary key(id), 
+	constraint titmes unique (titulo, mensagem)
+	
+);
